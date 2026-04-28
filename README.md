@@ -136,17 +136,17 @@ export default Aesir;
 <tr>
 <td align="center">
 <a href="https://github.com/aesirshiyuri">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63"/>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/aesirshiyuri">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63"/>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/aesirshiyuri">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63"/>
 </a>
 </td>
 </tr>
