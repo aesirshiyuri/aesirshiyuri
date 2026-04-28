@@ -88,12 +88,12 @@ export default Aesir;
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=aesirshiyuri&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aesirshiyuri&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&icon_color=22d3ee&border_color=164e63" width="100%"/>
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aesirshiyuri&hide_border=false&layout=compact&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&border_color=164e63" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aesirshiyuri&hide_border=false&layout=compact&langs_count=8&bg_color=090918&title_color=67e8f9&text_color=a5f3fc&border_color=164e63" width="100%"/>
 
 </td>
 </tr>
