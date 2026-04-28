@@ -16,7 +16,7 @@
 
 <!-- ══════════════════════════ ## `> whoami` ══ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=42&text=%E2%9C%A6%20%3E%20whoami&fontSize=14&fontColor=67e8f9&fontAlign=50&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=52&text=%E2%9C%A6%20%3E%20whoami&fontSize=22&fontColor=67e8f9&fontAlign=12&fontAlignY=65" width="100%"/>
 
 <br/>
 
@@ -79,7 +79,7 @@ export default Aesir;
 
 <!-- ══════════════════════════════════ ## `> ./stats --verbose` ══ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=42&text=%E2%9C%A6%20%3E%20.%2Fstats%20--verbose&fontSize=14&fontColor=67e8f9&fontAlign=50&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=52&text=%E2%9C%A6%20%3E%20.%2Fstats%20--verbose&fontSize=22&fontColor=67e8f9&fontAlign=14&fontAlignY=65" width="100%"/>
 
 <br/>
 
@@ -109,7 +109,7 @@ export default Aesir;
 
 <!-- ═══════════════════════════════ ## `> ls ./arsenal` ══ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=42&text=%E2%9C%A6%20%3E%20ls%20.%2Farsenal&fontSize=14&fontColor=67e8f9&fontAlign=50&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=52&text=%E2%9C%A6%20%3E%20ls%20.%2Farsenal&fontSize=22&fontColor=67e8f9&fontAlign=11&fontAlignY=65" width="100%"/>
 
 <br/>
 
@@ -127,7 +127,7 @@ export default Aesir;
 
 <!-- ══════════════════════════════ ## `> cat ./projects/featured` ══ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=42&text=%E2%9C%A6%20%3E%20cat%20.%2Fprojects%2Ffeatured&fontSize=14&fontColor=67e8f9&fontAlign=50&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=52&text=%E2%9C%A6%20%3E%20cat%20.%2Fprojects%2Ffeatured&fontSize=22&fontColor=67e8f9&fontAlign=17&fontAlignY=65" width="100%"/>
 
 <br/>
 
@@ -153,9 +153,15 @@ export default Aesir;
 </table>
 </div>
 
-<!-- ══════════════════════════════ ## `> ./connect --all` ══ -->
+<!-- ══════════════════════════════ ## `> ./activity --log` ══ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=42&text=%E2%9C%A6%20%3E%20.%2Fconnect%20--all&fontSize=14&fontColor=67e8f9&fontAlign=50&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090918,100:021a1a&height=52&text=%E2%9C%A6%20%3E%20.%2Factivity%20--log&fontSize=22&fontColor=67e8f9&fontAlign=13&fontAlignY=65" width="100%"/>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aesirshiyuri&bg_color=090918&color=67e8f9&line=7c3aed&point=22d3ee&area=true&area_color=7c3aed&hide_border=false&border_color=164e63&title_color=67e8f9&custom_title=aesirshiyuri%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</div>
 
 <br/>
 
