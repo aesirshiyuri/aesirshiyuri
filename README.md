@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=900&color=C4B5FD&center=true&vCenter=true&width=560&lines=%F0%9F%8C%8A+weaving+dreams+into+interfaces;%F0%9F%A4%96+building+bots+for+Discord;%F0%9F%8C%90+crafting+apps+for+the+web;%E2%98%95+always+shipping%2C+rarely+sleeping)](https://github.com/aesirshiyuri)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=900&color=C4B5FD&center=true&vCenter=true&width=620&lines=%E2%9C%A8+%3E+somewhere+between+a+dream+and+a+deploy;%F0%9F%8C%99+%3E+lost+in+thought%2C+found+in+terminal;%F0%9F%8C%80+%3E+code+is+just+poetry+that+actually+runs;%F0%9F%94%AE+%3E+building+worlds+no+one+asked+for%2C+yet;%E2%AD%90+%3E+weaving+stars+into+source+code)](https://github.com/aesirshiyuri)
 
 </div>
 
@@ -135,19 +135,16 @@ export default Aesir;
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/aesirshiyuri">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
-</a>
+<!-- 📌 Thay repo=None bằng tên repo thật của bạn -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=None&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
 </td>
 <td align="center">
-<a href="https://github.com/aesirshiyuri">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
-</a>
+<!-- 📌 Thay repo=None bằng tên repo thật của bạn -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=None&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
 </td>
 <td align="center">
-<a href="https://github.com/aesirshiyuri">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
-</a>
+<!-- 📌 Thay repo=None bằng tên repo thật của bạn -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=None&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
 </td>
 </tr>
 </table>
