@@ -135,16 +135,19 @@ export default Aesir;
 <table>
 <tr>
 <td align="center">
-<!-- 📌 Thay repo=None bằng tên repo thật của bạn -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=None&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
+<a href="https://github.com/aesirshiyuri">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
+</a>
 </td>
 <td align="center">
-<!-- 📌 Thay repo=None bằng tên repo thật của bạn -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=None&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
+<a href="https://github.com/aesirshiyuri">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
+</a>
 </td>
 <td align="center">
-<!-- 📌 Thay repo=None bằng tên repo thật của bạn -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=None&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
+<a href="https://github.com/aesirshiyuri">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aesirshiyuri&repo=aesirshiyuri&bg_color=0d0b18&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b0764"/>
+</a>
 </td>
 </tr>
 </table>
