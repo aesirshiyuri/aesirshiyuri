@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050210,35:0f0a1a,70:1e1040,100:0a0515&height=290&text=aesirshiyuri&fontSize=80&fontColor=d9f3f3&animation=twinkling&stroke=9333ea&strokeWidth=2&desc=%E2%9C%A6%20dreamweaver%20%C2%B7%20app%20dev%20%C2%B7%20bot%20builder%20%E2%9C%A6&descSize=17&descColor=c4b5fd&descAlignY=72&fontAlignY=44" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050210,35:0f0a1a,70:1e1040,100:0a0515&height=290&text=aesirshiyuri&fontSize=80&fontColor=e9d5ff&animation=twinkling&stroke=9333ea&strokeWidth=2&desc=%E2%9C%A6%20dreamweaver%20%C2%B7%20app%20dev%20%C2%B7%20bot%20builder%20%E2%9C%A6&descSize=17&descColor=c4b5fd&descAlignY=72&fontAlignY=44" width="100%"/>
 
 <sub>✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦</sub>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=900&color=C4B5FD&center=true&vCenter=true&width=620&lines=%E2%9C%A8+%3E+somewhere+between+a+dream+and+a+deploy;%F0%9F%8C%99+%3E+lost+in+thought%2C+found+in+terminal;%F0%9F%8C%80+%3E+code+is+just+poetry+that+actually+runs;%F0%9F%94%AE+%3E+building+worlds+no+one+asked+for%2C+yet;%E2%AD%90+%3E+weaving+stars+into+source+code)](https://github.com/aesirshiyuri)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=900&color=C4B5FD&center=true&vCenter=true&width=500&lines=%E2%9C%A8+%3E+somewhere+between+a+dream+and+a+deploy;%F0%9F%8C%99+%3E+lost+in+thought%2C+found+in+terminal;%F0%9F%8C%80+%3E+code+is+just+poetry+that+actually+runs;%F0%9F%94%AE+%3E+building+worlds+no+one+asked+for%2C+yet;%E2%AD%90+%3E+weaving+stars+into+source+code)](https://github.com/aesirshiyuri)
 
 </div>
 
@@ -48,7 +48,7 @@
 ```js
 // ── player_data.js ──────────────────────────
 const Aesir = {
-  name    : "Minnh Quân (Aesir)",
+  name    : "Aesir",
   server  : "Vietnam 🇻🇳",
   class   : "Dreamweaver · App Dev · Bot Builder",
 
@@ -186,11 +186,17 @@ export default Aesir;
 </td>
 <td width="33%" valign="middle" align="center">
 
-![Python](https://img.shields.io/badge/Bot%20Builder-c4b5fd?style=for-the-badge&logo=python&logoColor=0d0b18)
-
-![TS](https://img.shields.io/badge/Web%20Dev-a78bfa?style=for-the-badge&logo=typescript&logoColor=0d0b18)
-
-![Dream](https://img.shields.io/badge/Dreamweaver-7c3aed?style=for-the-badge&logo=adobe&logoColor=0d0b18)
+<pre>
+┌─ system.log ────────────┐
+│                         │
+│ status  : ⚡ online     │
+│ mood    : ☕ caffeinated │
+│ music   : 🎵 lo-fi      │
+│ timezone: 🌏 GMT+7      │
+│ uptime  : still going~  │
+│                         │
+└─────────────────────────┘
+</pre>
 
 </td>
 </tr>
