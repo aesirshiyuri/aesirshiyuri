@@ -48,7 +48,7 @@
 ```js
 // ── player_data.js ──────────────────────────
 const Aesir = {
-  name    : "Aesir",
+  name    : "Minnh Quân (Aesir)",
   server  : "Vietnam 🇻🇳",
   class   : "Dreamweaver · App Dev · Bot Builder",
 
